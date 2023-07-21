@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A9EA8389-CB71-4889-BAE7-F6289D365DF2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA443DC2-9231-4C84-9C71-42EA6260CFC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AboutMe/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FA443DC2-9231-4C84-9C71-42EA6260CFC1 - e8dc79a93737cf49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AboutMe.ContentView.body.getter : some"
+                  moduleName = "AboutMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Desktop/My%20First%20App/My%20First%20App/AboutMe/AboutMe/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "FA443DC2-9231-4C84-9C71-42EA6260CFC1 - e8dc79a93737cf66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AboutMe.ContentView.body.getter : some"
+                  moduleName = "AboutMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Desktop/My%20First%20App/My%20First%20App/AboutMe/AboutMe/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
